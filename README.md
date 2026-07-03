@@ -2,6 +2,7 @@
 
 
 LINK VIDEO DEMO: https://drive.google.com/file/d/1CnfXUf7FvCQ1FIi_-YJa7FojGBJck_Mr/view?usp=sharing
+
 Triển khai theo kiến trúc đề tài CS117: Frame Extraction → ROI Configuration
 (auto-detect chấm đỏ trên ảnh mẫu → SAM2/geometric fallback → ROI rules) →
 YOLO-Pose Person Detection → Spatial Interaction Score S(t) → Occupied/Free
