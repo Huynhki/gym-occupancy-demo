@@ -1,0 +1,10 @@
+[
+  { "id": "M01", "type": "Elliptical" },
+  { "id": "M02", "type": "Treadmill" },
+  { "id": "M03", "type": "Treadmill" },
+  { "id": "M04", "type": "Treadmill" },
+  { "id": "M05", "type": "Elliptical" },
+  { "id": "M06", "type": "Bike" },
+  { "id": "M07", "type": "Bike" },
+  { "id": "M08", "type": "Bike" }
+]

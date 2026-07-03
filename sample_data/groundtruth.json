@@ -1,0 +1,10 @@
+[
+  { "id": "M01", "type": "Elliptical", "occupied_time_seconds": 0 },
+  { "id": "M02", "type": "Treadmill", "occupied_time_seconds": 0 },
+  { "id": "M03", "type": "Treadmill", "occupied_time_seconds": 57 },
+  { "id": "M04", "type": "Treadmill", "occupied_time_seconds": 0 },
+  { "id": "M05", "type": "Elliptical", "occupied_time_seconds": 38 },
+  { "id": "M06", "type": "Bike", "occupied_time_seconds": 0 },
+  { "id": "M07", "type": "Bike", "occupied_time_seconds": 0 },
+  { "id": "M08", "type": "Bike", "occupied_time_seconds": 10 }
+]
