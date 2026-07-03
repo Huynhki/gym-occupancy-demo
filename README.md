@@ -40,8 +40,7 @@ nếu không hệ thống sẽ báo lỗi và cho phép chỉnh lại.
 pip install -r requirements.txt
 python setup_models.py     # tải yolov8n-pose.pt -> models/yolov8n-pose.pth
 ```
-(Cần internet để tải weight YOLO-Pose — sandbox phát triển bị
-chặn mạng nên không tải được tại đây.)
+(Cần internet để tải weight YOLO-Pose)
 
 ## Chạy demo
 
