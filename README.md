@@ -41,8 +41,6 @@ Occupied/Free State Machine  (ngưỡng T_in / T_out chống nhiễu)
 Time Accumulation  (cộng dồn frame Occupied → giây)
         ↓
 Output Report
-
----
 ---
 
 ## Input cần chuẩn bị
