@@ -43,6 +43,7 @@ Time Accumulation  (cộng dồn frame Occupied → giây)
 Output Report
 
 ---
+---
 
 ## Input cần chuẩn bị
 
