@@ -3,7 +3,7 @@
 Hệ thống tự động đo lường **thời gian chiếm dụng** của từng thiết bị tập gym
 thông qua phân tích video camera giám sát sẵn có, không cần lắp thêm phần cứng.
 
-📽️ **Video demo:** https://drive.google.com/file/d/1CnfXUf7FvCQ1FIi_-YJa7FojGBJck_Mr/view?usp=sharing
+📽️ **Video demo:** https://drive.google.com/file/d/1MNchXOYW1Dh4A1ToEAKG-JmNJOitcwUn/view?usp=sharing
 
 ---
 
