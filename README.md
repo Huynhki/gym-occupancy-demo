@@ -24,7 +24,6 @@ Hệ thống khai thác nguồn video từ camera an ninh có sẵn để tự �
 ## Pipeline
 
 ```
-
 ```
 
 Frame Extraction (1 FPS)
