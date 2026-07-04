@@ -1,4 +1,4 @@
-# Smart Gym Occupancy Management — Demo
+# Smart Gym Occupancy Management - Demo
 
 Hệ thống tự động đo lường **thời gian chiếm dụng** của từng thiết bị tập gym
 thông qua phân tích video camera giám sát sẵn có, không cần lắp thêm phần cứng.
@@ -165,4 +165,4 @@ Các tham số này có thể hiệu chỉnh trên một tập video validation 
 
 ## 📄 License
 
-Đồ án học tập — sử dụng cho mục đích môn học CS117.
+Đồ án học tập, chỉ sử dụng cho mục đích môn học CS117.
